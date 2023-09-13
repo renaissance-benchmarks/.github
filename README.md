@@ -1,2 +1,1 @@
-# .github
-Profile repository
+# Profile repository for Renaissance benchmark suite
